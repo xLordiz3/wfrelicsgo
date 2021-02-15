@@ -1,8 +1,8 @@
 package main
 
 import (
-	"./internal/ui"
 	"fyne.io/fyne/v2/app"
+	"github.com/xLordiz3/wfrelicsgo/internal/ui"
 )
 
 func main() {
