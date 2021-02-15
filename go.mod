@@ -1,4 +1,4 @@
-module github.com/xlordiz3/wfrelicsgo
+module github.com/xLordiz3/wfrelicsgo
 
 go 1.14
 
