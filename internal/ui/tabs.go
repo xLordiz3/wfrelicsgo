@@ -5,7 +5,7 @@ import (
 	"fyne.io/fyne/v2/container"
 )
 
-func Create(app fyne.App, window fyne.Window) *container.AppTabs {
+func Create(app *fyne.App, window *fyne.Window) *container.AppTabs {
 	appSettings := &AppSettings{}
 
 	return container.NewAppTabs(
